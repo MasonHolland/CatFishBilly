@@ -1,14 +1,22 @@
-Project CatFish Billy “CFB” 1-Page GDD
+CatFish Billy “CFB”
 ======
 
 __Genre__: Horror + Comedy
+
 __Target Audience__: Adult / Teen Mature Content
+
 __Controls__: Mouse + Keyboard, Controller
+
 __Thematic Setting__: Medieval fantasy - peasants, swords, monsters
+
 __Tech Stack__:
+
 __M__: Unity, Blender, Paint.net, Audacity
+
 __B__: Procreate, Photoshop
+
 __Platform__: Steam / IOS
+
 __Game Moment__: 2 minutes of simple level flow, some basic dialogue, basic combat (hitting and taking damage) with 2 enemy types.
 
 Story
