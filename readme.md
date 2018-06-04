@@ -1,17 +1,15 @@
 Project CatFish Billy “CFB” 1-Page GDD
 ======
 
-### Genre: Horror + Comedy
-
-### Target Audience: Adult / Teen Mature Content
-
-### Controls: Mouse + Keyboard, Controller
-### Thematic Setting: Medieval fantasy - peasants, swords, monsters
-### Tech Stack:
-### M: Unity, Blender, Paint.net, Audacity
-### B: Procreate, Photoshop
-### Platform: Steam / IOS
-### Game Moment: 2 minutes of simple level flow, some basic dialogue, basic combat (hitting and taking damage) with 2 enemy types.
+__Genre__: Horror + Comedy
+__Target Audience__: Adult / Teen Mature Content
+__Controls__: Mouse + Keyboard, Controller
+__Thematic Setting__: Medieval fantasy - peasants, swords, monsters
+__Tech Stack__:
+__M__: Unity, Blender, Paint.net, Audacity
+__B__: Procreate, Photoshop
+__Platform__: Steam / IOS
+__Game Moment__: 2 minutes of simple level flow, some basic dialogue, basic combat (hitting and taking damage) with 2 enemy types.
 
 Story
 -----
@@ -27,7 +25,7 @@ Find peasants/commoners and steal all of their clothing and oil. This leaves the
 
 Gameplay
 ----
-Win Condition: Have a freshness level of 40 or higher
+__Win Condition__: Have a freshness level of 40 or higher
 
 
 Visuals
@@ -44,7 +42,7 @@ Enemies
 
 Characters
 ----
-###CatFish Billy
+### CatFish Billy
 
 ##### Backstory
 Baron of Badwater. Inheritor of a kingdom, subjugated through force. A brute and a tyrant.
