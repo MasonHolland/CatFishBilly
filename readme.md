@@ -77,4 +77,4 @@ Completion
 Presentation -->
 
 <!-- images -->
-[cfb-image]: https://i.imgur.com/ijSuBzy.png "CatFish Billy on his Opossum"
+[cfb-image]: https://i.imgur.com/y0ihDZ1.png "CatFish Billy on his Opossum"
