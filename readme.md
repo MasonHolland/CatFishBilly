@@ -9,13 +9,9 @@ __Controls__: Mouse + Keyboard, Controller
 
 __Thematic Setting__: Medieval fantasy - peasants, swords, monsters
 
-__Tech Stack__:
+__Tech Stack__: _M_: Unity, Blender, Paint.net, Audacity + _B_: Procreate, Photoshop
 
-__M__: Unity, Blender, Paint.net, Audacity
-
-__B__: Procreate, Photoshop
-
-__Platform__: Steam / IOS
+__Platform__: Steam / iOS
 
 __Game Moment__: 2 minutes of simple level flow, some basic dialogue, basic combat (hitting and taking damage) with 2 enemy types.
 
