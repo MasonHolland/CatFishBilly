@@ -1,6 +1,8 @@
 CatFish Billy “CFB”
 ======
 
+![CatFish Billy][cfb-image]
+
 __Genre__: Horror + Comedy
 
 __Target Audience__: Adult / Teen Mature Content
@@ -73,3 +75,6 @@ Feature Development Priorities:
 Comparative Products:
 Completion
 Presentation -->
+
+<!-- images -->
+[cfb-image]: https://i.imgur.com/zVfrmZR.png "CatFish Billy on his Opossum"
