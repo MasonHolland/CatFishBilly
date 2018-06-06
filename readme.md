@@ -20,7 +20,7 @@ __Game Moment__: 2 minutes of simple level flow, some basic dialogue, basic comb
 Story
 -----
 
-CatFish Billy is a tyrant
+CatFish Billy, the Baron of Bad Water. Dead at 4003. Ambushed by Caiman Highwayman. He was a brute and a tyrant.
 
 Mechanics
 -----
@@ -77,4 +77,4 @@ Completion
 Presentation -->
 
 <!-- images -->
-[cfb-image]: https://i.imgur.com/y0ihDZ1.png "CatFish Billy on his Opossum"
+[cfb-image]: https://i.imgur.com/y0ihDZ1.png "CatFish Billy on his faithful steed"
